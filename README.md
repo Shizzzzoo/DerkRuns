@@ -2,14 +2,14 @@
 
 This is the official public download repository for **DerkRuns: Retro Assault**, a cartoony retro run-and-gun game. This repository contains release information and downloadable builds only; it does not contain the game source code.
 
-The current public build is **v1.0.0-beta.2**.
+The current public build is **v1.0.0-beta.3**.
 
 ## Download
 
-- [Windows 64-bit](https://github.com/Shizzzzoo/DerkRuns/releases/download/v1.0.0-beta.2/DerkRuns-windows-x64.zip)
-- [macOS Apple Silicon / M-series](https://github.com/Shizzzzoo/DerkRuns/releases/download/v1.0.0-beta.2/DerkRuns-macos-arm64.zip)
-- [macOS Intel](https://github.com/Shizzzzoo/DerkRuns/releases/download/v1.0.0-beta.2/DerkRuns-macos-x64.zip)
-- [Linux 64-bit](https://github.com/Shizzzzoo/DerkRuns/releases/download/v1.0.0-beta.2/DerkRuns-linux-x64.zip)
+- [Windows 64-bit](https://github.com/Shizzzzoo/DerkRuns/releases/download/v1.0.0-beta.3/DerkRuns-windows-x64.zip)
+- [macOS Apple Silicon / M-series](https://github.com/Shizzzzoo/DerkRuns/releases/download/v1.0.0-beta.3/DerkRuns-macos-arm64.zip)
+- [macOS Intel](https://github.com/Shizzzzoo/DerkRuns/releases/download/v1.0.0-beta.3/DerkRuns-macos-x64.zip)
+- [Linux 64-bit](https://github.com/Shizzzzoo/DerkRuns/releases/download/v1.0.0-beta.3/DerkRuns-linux-x64.zip)
 - [All releases](https://github.com/Shizzzzoo/DerkRuns/releases)
 
 Python and Pygame are bundled with the downloadable builds.
@@ -33,13 +33,13 @@ yay -S derkruns-bin
 
 Launch it from the application menu or run `derkruns`.
 
-## Beta.2 checksums
+## v1.0.0-beta.3 checksums
 
 | File | SHA-256 |
 | --- | --- |
-| `DerkRuns-linux-x64.zip` | `71fed45b390c8f4eef22c8998131dbf92a541297329ae41aedeabf419d902262` |
-| `DerkRuns-windows-x64.zip` | `8e8a9d6690e8d1e605518ae8b8ee52d9757a9d99dcc308ccb14f37661bb03483` |
-| `DerkRuns-macos-arm64.zip` | `9e15a419b3876bc34a17fa258aa54f95fcdedad78e1154fa4fd467fe9d568672` |
-| `DerkRuns-macos-x64.zip` | `c5bdc64ad50a0c1875b6ea3f9a827c69e83e9ec69914e543cb8a8a6bd3e74e0a` |
+| `DerkRuns-linux-x64.zip` | `455e8fde1666562203ede5d09c57f847227b1b619343f7bbb6630248029fe04f` |
+| `DerkRuns-windows-x64.zip` | `f549920cf861757fe6fe1bc4755d46358b37a2df2f8a61a7eaa2176a0fcd9bf5` |
+| `DerkRuns-macos-arm64.zip` | `a47e0d9a99c750618509782e733cdbec02d3f243a060e0fb5312abae03891d17` |
+| `DerkRuns-macos-x64.zip` | `394f871b1780e31e48ca28284f2616c2deb7cdfb6a94d7011a1e15a03e048559` |
 
 Use the repository's **Issues** page to report beta bugs.
